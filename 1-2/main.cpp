@@ -11,12 +11,14 @@
 124.2
 */
 #include <iostream>
+#include <iomanip>
 using namespace std;
 
 int main() {
     int height;      //身高
+    double sj = (height - 100) * 0.9 * 2 ;
     cout << "请输入一个正整数H（100 < H ≤ 300），为某人身高。" << endl;
     cin >> height;
-    cout << (height - 100) * 0.9 * 2 << endl;
+    cout << setprecision(4)<< sj;
     return 0;
 }
