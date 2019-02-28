@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="1_10" targetName="1_10" />
+      <config projectName="1_11" targetName="1_11" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abbeccab-28ae-46b9-915c-1c5a8d4cd890" name="Default Changelist" comment="" />
+    <list default="true" id="8fc1e592-c6d7-4157-8abb-90d101ddbc8e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1-10/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../1-10/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +33,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="216">
+              <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+              <folding>
+                <element signature="e#179#198#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,8 +65,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -82,7 +88,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="1_10" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_10" TARGET_NAME="1_10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1_10" RUN_TARGET_NAME="1_10">
+    <configuration name="1_11" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="1_11" TARGET_NAME="1_11" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="1_11" RUN_TARGET_NAME="1_11">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -93,11 +99,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="abbeccab-28ae-46b9-915c-1c5a8d4cd890" name="Default Changelist" comment="" />
-      <created>1551357156756</created>
+      <changelist id="8fc1e592-c6d7-4157-8abb-90d101ddbc8e" name="Default Changelist" comment="" />
+      <created>1551357667299</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1551357156756</updated>
+      <updated>1551357667299</updated>
     </task>
     <servers />
   </component>
@@ -116,7 +122,7 @@
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21588367" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32997763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -136,8 +142,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="216">
+          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#179#198#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
